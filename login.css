@@ -1,0 +1,54 @@
+body{
+    margin:0;
+    padding:0;
+    margin:auto;
+}
+.zt{
+    width:1200px;
+    margin: auto;
+    
+}
+.page div{
+    display: inline-block;
+}
+.right-aside{
+    margin-left:500px;
+}
+.right-aside>a{
+    text-decoration: none;
+    color:gray;
+}
+.d1{
+    color:red;
+}
+#mg{
+    margin: 40px;
+}
+.bord{
+    border:1px solid #dfdfdf;
+    float:right;
+    width:450px;
+    margin: 50px;
+}
+.bord1{
+    border:1px solid #dfdfdf;
+    float:left;
+    width:1175px;
+}
+.inpu{
+    border-radius: 5px;
+    margin-left:5px;
+}
+.inpu1{
+    border-radius: 5px;
+    margin-left:17px;
+}
+.a15{
+    color:inherit;
+    font-size:15px;
+    display: block;
+}
+a{
+    text-decoration: none;
+    color:gray;
+}
